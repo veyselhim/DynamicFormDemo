@@ -1,0 +1,12 @@
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\bin\Debug\net7.0\DynamicFormDemo.Entity.deps.json
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\bin\Debug\net7.0\DynamicFormDemo.Entity.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\bin\Debug\net7.0\DynamicFormDemo.Entity.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.csproj.AssemblyReference.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.AssemblyInfoInputs.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.AssemblyInfo.cs
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\refint\DynamicFormDemo.Entity.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\DynamicFormDemo.Entity.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Entity\obj\Debug\net7.0\ref\DynamicFormDemo.Entity.dll

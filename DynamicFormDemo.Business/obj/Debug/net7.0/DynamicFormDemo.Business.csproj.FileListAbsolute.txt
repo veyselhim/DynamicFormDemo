@@ -1,0 +1,17 @@
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.Business.deps.json
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.Business.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.Business.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.csproj.AssemblyReference.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.AssemblyInfoInputs.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.AssemblyInfo.cs
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.csproj.CoreCompileInputs.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\refint\DynamicFormDemo.Business.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\ref\DynamicFormDemo.Business.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.DataAccess.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.Entity.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.DataAccess.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\bin\Debug\net7.0\DynamicFormDemo.Entity.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.Business\obj\Debug\net7.0\DynamicFormDemo.Business.csproj.CopyComplete

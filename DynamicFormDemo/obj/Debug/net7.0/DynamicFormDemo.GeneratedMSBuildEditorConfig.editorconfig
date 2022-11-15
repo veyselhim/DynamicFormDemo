@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DynamicFormDemo
+build_property.RootNamespace = DynamicFormDemo
+build_property.ProjectDir = C:\Projects\.Net\DynamicFormDemoProject\DynamicFormDemo\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Projects\.Net\DynamicFormDemoProject\DynamicFormDemo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Pages/Shared/PartialHeaderAndFooter/PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxIZWFkZXJBbmRGb290ZXJcUGFydGlhbEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Pages/Shared/PartialHeaderAndFooter/PartialSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFBhcnRpYWxIZWFkZXJBbmRGb290ZXJcUGFydGlhbFNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Pages/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Views/Field/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmllbGRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Views/Form/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Views/Form/Forms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3Jtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Views/Form/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Views/Form/PartialGetForms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxQYXJ0aWFsR2V0Rm9ybXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/.Net/DynamicFormDemoProject/DynamicFormDemo/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

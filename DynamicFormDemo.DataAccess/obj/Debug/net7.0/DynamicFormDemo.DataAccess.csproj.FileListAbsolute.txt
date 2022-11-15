@@ -1,0 +1,17 @@
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\bin\Debug\net7.0\DynamicFormDemo.DataAccess.deps.json
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\bin\Debug\net7.0\DynamicFormDemo.DataAccess.runtimeconfig.json
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\bin\Debug\net7.0\DynamicFormDemo.DataAccess.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\bin\Debug\net7.0\DynamicFormDemo.DataAccess.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\bin\Debug\net7.0\DynamicFormDemo.Entity.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\bin\Debug\net7.0\DynamicFormDemo.Entity.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.csproj.AssemblyReference.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.AssemblyInfo.cs
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.csproj.CopyComplete
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\refint\DynamicFormDemo.DataAccess.dll
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.pdb
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\DynamicFormDemo.DataAccess.genruntimeconfig.cache
+C:\Projects\.Net\MetaakdenizSoftwareSite\DynamicFormDemo.DataAccess\obj\Debug\net7.0\ref\DynamicFormDemo.DataAccess.dll

@@ -1,0 +1,36 @@
+﻿@model DynamicFormDemo.Entity.Concrete.Field
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_UserLayout.cshtml";
+}
+
+@using (@Html.BeginForm("Index", "Field", FormMethod.Post, new { @class = "row g-3 mt-3" }))
+{
+
+    <div class="col-md-6">
+        <label  class="form-label">FormId</label>
+        @Html.TextBoxFor(x => x.FormId, new { @class = "form-control", placeholder = "Name" })
+
+    </div>
+    <div class="col-md-6">
+        <label  class="form-label">Name</label>
+        @Html.TextBoxFor(x => x.Name, new { @class = "form-control", placeholder = "Name" })
+    </div>
+    <div class="col-md-6">
+        <label  class="form-label">Data Type</label>
+        @Html.TextBoxFor(x => x.DataType, new { @class = "form-control", placeholder = "Name" })
+    </div>
+  
+    <div class="form-check col-md-6">
+        @Html.CheckBoxFor(x => x.Required,new{@class="form-check-input"})
+        <label class="form-check-label" >
+            Is Required?
+        </label>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </div>
+
+}
+
+

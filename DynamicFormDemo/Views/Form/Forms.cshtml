@@ -1,0 +1,33 @@
+﻿@model IQueryable<DynamicFormDemo.Entity.Concrete.Field>
+
+@{
+    ViewData["Title"] = "Forms";
+    Layout = "~/Pages/Shared/_UserLayout.cshtml";
+}
+
+
+<form class="row g-3 mt-3">
+    
+    @foreach (var item in Model)
+    {
+        <div class="col-md-6">
+            <label for="inputEmail4" class="form-label">@item.Name</label>
+            @if (item.DataType == "STRING")
+            {
+              <input type="text" class="form-control" id="inputEmail4" required="@item.Required">
+            }
+            else
+            {
+              <input type="@item.DataType" class="form-control" id="inputEmail4">
+
+            }
+        </div>
+    }
+   @if (Model.Any())
+   {
+       <div class="col-12">
+           <button type="submit" class="btn btn-primary">Sign in</button>
+       </div>
+   }
+  
+</form> 
